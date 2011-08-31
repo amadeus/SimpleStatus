@@ -11,7 +11,7 @@ var SimpleStatus = this.SimpleStatus = new Class({
 		fxOptions: {
 			duration: 500,
 			fps: 1000
-		},
+		}
 	},
 
 	initialize: function(options){
